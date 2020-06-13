@@ -1,0 +1,4 @@
+rootProject.name = 'tetris'
+
+enableFeaturePreview 'GRADLE_METADATA'
+
